@@ -2,13 +2,13 @@ import type { ContactContent } from "@/lib/content-types";
 
 /**
  * Editing guide:
- * - Replace `email` and the links below with your real contact details.
- * - Put your real resume file inside `/public/files` and update `resumePath`.
+ * 1. Replace the email, links, and resume path with your real details.
+ * 2. Keep this section practical. It should help interviewers contact you quickly.
  */
 export const contact: ContactContent = {
   email: "yourname@example.com",
   note:
-    "欢迎联系我获取完整简历、趋势报告样张或项目材料。建议优先替换这里的邮箱、社媒和简历文件路径。",
+    "感谢浏览我的作品集。如需进一步了解我的趋势报告、项目经历或 AI 实践案例，欢迎通过邮件与我联系，也可下载简历获取更完整的信息。",
   resumePath: "/files/resume-placeholder.txt",
   resumeLabel: "Download Resume",
   links: [

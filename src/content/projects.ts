@@ -1,30 +1,27 @@
 import type { ShowcaseItem } from "@/lib/content-types";
 
 /**
- * How to edit this file:
- * - One object equals one project.
- * - Keep the field order unchanged. It is easier to maintain later.
- * - Put images in `/public/media/images` and local videos in `/public/media/videos`.
- * - Set `featured: true` for the items you want to highlight first.
+ * Project content.
+ * One object equals one project. Keep the field order stable for easier future editing.
  */
 export const projects: ShowcaseItem[] = [
   {
-    id: "sports-season-concept",
-    title: "季度运动主题企划与视觉转化",
-    subtitle: "从趋势信号到可执行内容方向的完整整合",
+    id: "sports-theme-planning",
+    title: "运动方向主题企划与设计表达项目",
+    subtitle: "面向内部提案与后续设计开发的方向整合",
     time: "2025",
-    role: "趋势研究 / 内容策划 / 设计转化",
+    role: "方向策划 / 内容组织 / 设计转化",
     summary:
-      "围绕新一季运动生活方式主题，完成趋势信号筛选、故事线搭建、视觉关键词定义与方向表达整理。",
+      "围绕运动方向重点主题，完成从趋势信息筛选、结构梳理到视觉表达转译的完整项目支持，帮助团队更高效地理解方向并推进后续开发。",
     details: [
-      "基于市场信号、品牌动向、消费者偏好与社交平台视觉变化，建立核心主题与分支方向。",
-      "将研究结论转写为更适合内部沟通和设计团队使用的内容语言，减少提案后的理解偏差。",
-      "输出可用于后续延展的色彩、面料、版型、情绪图与视觉语气建议。"
+      "结合趋势研究与项目目标搭建清晰的内容框架，明确主题逻辑、视觉重点与表达顺序。",
+      "将研究语言转写为更具沟通效率的项目表达，减少内部理解偏差，提升提案完成度。",
+      "在内容组织与页面表达上强化重点信息，使项目成果更适合会议展示、团队协作与后续延展。"
     ],
-    tags: ["Sportswear", "Theme Planning", "Visual Direction"],
+    tags: ["Direction Planning", "Editorial Structure", "Creative Translation"],
     coverImage: {
       src: "/media/images/project-season.svg",
-      alt: "Project placeholder cover for a seasonal sports concept"
+      alt: "Project placeholder cover for sports theme planning"
     },
     gallery: [
       {
@@ -41,17 +38,17 @@ export const projects: ShowcaseItem[] = [
   {
     id: "trend-language-system",
     title: "运动方向趋势语言体系整理",
-    subtitle: "让不同项目输出保持统一语气与判断标准",
+    subtitle: "提升不同项目之间的表达一致性与方向清晰度",
     time: "2024",
-    role: "内容框架搭建 / 方向命名 / 内部协同",
+    role: "内容框架搭建 / 命名逻辑 / 内部协同",
     summary:
-      "为运动方向内容建立更一致的表达逻辑，包括主题命名规则、视觉关键词结构和提案叙事顺序。",
+      "针对既有项目在命名、表达和内容结构上的差异，建立更统一的趋势语言体系，帮助团队在方向理解和成果输出上保持一致。",
     details: [
-      "梳理既有项目中命名、表达和排版逻辑的不一致问题，统一输出标准。",
-      "为后续项目提供更稳定的模板骨架，让内容协作效率更高。",
-      "降低不同团队成员对同一趋势结论的理解偏差。"
+      "梳理不同项目中的主题命名、视觉关键词与叙事结构，统一输出标准与表达逻辑。",
+      "为后续提案和方向内容建立更稳定的模板骨架，提升协作效率与内容复用价值。",
+      "减少不同成员对同一趋势结论的理解偏差，使研究成果更具连续性和专业感。"
     ],
-    tags: ["Naming System", "Editorial Structure", "Collaboration"],
+    tags: ["Naming System", "Content Framework", "Team Alignment"],
     coverImage: {
       src: "/media/images/project-language.svg",
       alt: "Project placeholder cover for trend language system"
@@ -59,7 +56,7 @@ export const projects: ShowcaseItem[] = [
     gallery: [
       {
         src: "/media/images/gallery-grid-c.svg",
-        alt: "Gallery placeholder three for project imagery"
+        alt: "Gallery placeholder for trend language system imagery"
       }
     ],
     video: {
@@ -71,31 +68,31 @@ export const projects: ShowcaseItem[] = [
     featured: false
   },
   {
-    id: "active-lifestyle-storytelling",
-    title: "Active Lifestyle 方向内容包装",
-    subtitle: "把趋势结论翻译成更具说服力的项目叙事",
+    id: "proposal-storytelling-support",
+    title: "趋势内容包装与提案表达优化",
+    subtitle: "把研究结论转化为更具说服力的项目叙事",
     time: "2024",
     role: "故事线设计 / 内容编辑 / 视觉统筹",
     summary:
-      "为面向客户或内部提案的内容包重构结构，让趋势表达从信息罗列升级为更容易理解和记住的叙事体验。",
+      "针对客户或内部提案场景，重构趋势内容的页面节奏与表达方式，让研究输出从信息堆叠升级为更容易理解和记住的叙事体验。",
     details: [
-      "重写页面节奏、标题逻辑与视觉层级，让重点内容能在移动端和会议场景中被快速抓住。",
-      "配合图片和案例排序，使关键判断点出现得更早、更明确。",
-      "强化项目呈现质量，提升方案的专业感和完成度。"
+      "重写标题逻辑、重点顺序与视觉层级，让核心判断在移动端浏览和会议场景中都能被快速抓住。",
+      "通过图文排序和内容压缩强化项目说服力，让关键信息出现得更早、更明确。",
+      "提升整体呈现质量，使成果在专业度、完成度与视觉质感上更符合面试和汇报场景。"
     ],
-    tags: ["Storytelling", "Proposal Design", "Content Quality"],
+    tags: ["Storytelling", "Proposal Support", "Presentation Quality"],
     coverImage: {
       src: "/media/images/project-story.svg",
-      alt: "Project placeholder cover for storytelling work"
+      alt: "Project placeholder cover for proposal storytelling"
     },
     gallery: [
       {
         src: "/media/images/gallery-grid-a.svg",
-        alt: "Gallery placeholder one reused for project imagery"
+        alt: "Gallery placeholder one reused for storytelling project"
       },
       {
         src: "/media/images/gallery-grid-c.svg",
-        alt: "Gallery placeholder three reused for project imagery"
+        alt: "Gallery placeholder two reused for storytelling project"
       }
     ],
     featured: true
