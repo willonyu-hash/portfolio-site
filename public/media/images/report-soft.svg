@@ -1,0 +1,8 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#EEE7DE"/>
+  <rect x="110" y="120" width="980" height="1260" rx="40" fill="#FAF6F0" stroke="#B9AB9C"/>
+  <circle cx="420" cy="700" r="240" fill="#D8CABC"/>
+  <circle cx="760" cy="600" r="180" fill="#CBBCAA"/>
+  <text x="190" y="240" fill="#171414" font-family="Georgia, serif" font-size="56">REPORT B</text>
+  <text x="190" y="314" fill="#5A4C43" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">SOFT PERFORMANCE</text>
+</svg>

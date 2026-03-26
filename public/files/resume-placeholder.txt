@@ -1,0 +1,6 @@
+Replace this file with your real resume.
+
+Recommended steps:
+1. Put your PDF into this folder.
+2. Rename the PDF to a clean name, for example `resume-yuqi-sheng.pdf`.
+3. Update `resumePath` inside `src/content/contact.ts`.

@@ -1,0 +1,10 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#EAE2D9"/>
+  <rect x="110" y="120" width="980" height="1260" rx="40" fill="#F8F3ED" stroke="#B9AC9D"/>
+  <rect x="220" y="350" width="170" height="760" fill="#D1C2B3"/>
+  <rect x="450" y="490" width="170" height="620" fill="#C8B8A8"/>
+  <rect x="680" y="290" width="170" height="820" fill="#D9CCBF"/>
+  <rect x="910" y="430" width="90" height="680" fill="#CDBEAE"/>
+  <text x="190" y="240" fill="#171414" font-family="Georgia, serif" font-size="56">REPORT C</text>
+  <text x="190" y="314" fill="#5A4C43" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">URBAN TRAIL SIGNAL</text>
+</svg>

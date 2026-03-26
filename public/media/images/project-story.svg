@@ -1,0 +1,11 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#EEE6DD"/>
+  <rect x="110" y="120" width="980" height="1260" rx="40" fill="#F8F4EE" stroke="#B9AB9B"/>
+  <circle cx="384" cy="486" r="188" fill="#D7C8B9"/>
+  <rect x="610" y="300" width="280" height="360" rx="28" fill="#CABBAA"/>
+  <rect x="210" y="846" width="760" height="54" rx="24" fill="#D7C8B9"/>
+  <rect x="210" y="936" width="680" height="54" rx="24" fill="#D7C8B9"/>
+  <rect x="210" y="1026" width="580" height="54" rx="24" fill="#D7C8B9"/>
+  <text x="210" y="240" fill="#171414" font-family="Georgia, serif" font-size="56">PROJECT 03</text>
+  <text x="210" y="1160" fill="#5A4C43" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">STORYTELLING PLACEHOLDER</text>
+</svg>

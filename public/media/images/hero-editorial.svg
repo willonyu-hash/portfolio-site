@@ -1,0 +1,8 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#E8E0D7"/>
+  <rect x="88" y="88" width="1024" height="1324" rx="36" fill="#F5F0EA" stroke="#B8AA9B"/>
+  <path d="M196 1108C344 906 488 790 648 742C788 700 916 724 1012 832V1318H196V1108Z" fill="#CFC0B1"/>
+  <circle cx="784" cy="428" r="190" fill="#D9CDC1"/>
+  <text x="196" y="260" fill="#171414" font-family="Georgia, serif" font-size="64" letter-spacing="8">EDITORIAL COVER</text>
+  <text x="196" y="330" fill="#5A4C43" font-family="Arial, sans-serif" font-size="24" letter-spacing="6">REPLACE WITH YOUR MAIN VISUAL</text>
+</svg>

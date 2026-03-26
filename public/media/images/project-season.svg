@@ -1,0 +1,7 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#EFE8E0"/>
+  <rect x="110" y="120" width="980" height="1260" rx="40" fill="#F8F4EF" stroke="#B8AA9B"/>
+  <path d="M190 1140L440 760L670 960L930 620L1010 760V1280H190V1140Z" fill="#D1C3B3"/>
+  <text x="190" y="260" fill="#171414" font-family="Georgia, serif" font-size="56">PROJECT 01</text>
+  <text x="190" y="328" fill="#5A4C43" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">SEASONAL SPORTS CONCEPT</text>
+</svg>

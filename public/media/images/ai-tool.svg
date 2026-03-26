@@ -1,0 +1,11 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#ECE4DA"/>
+  <rect x="110" y="120" width="980" height="1260" rx="40" fill="#F8F2EB" stroke="#B8AA9B"/>
+  <rect x="220" y="350" width="760" height="620" rx="32" fill="#D4C5B6"/>
+  <circle cx="380" cy="530" r="72" fill="#C7B8A8"/>
+  <circle cx="600" cy="530" r="72" fill="#C7B8A8"/>
+  <circle cx="820" cy="530" r="72" fill="#C7B8A8"/>
+  <rect x="260" y="760" width="680" height="48" rx="20" fill="#C7B8A8"/>
+  <text x="210" y="260" fill="#171414" font-family="Georgia, serif" font-size="56">AI CASE 03</text>
+  <text x="210" y="1140" fill="#5A4C43" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">MINI TOOL PLACEHOLDER</text>
+</svg>

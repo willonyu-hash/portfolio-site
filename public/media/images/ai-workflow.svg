@@ -1,0 +1,11 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#ECE4DB"/>
+  <rect x="110" y="120" width="980" height="1260" rx="40" fill="#F8F4EE" stroke="#B9AC9D"/>
+  <rect x="210" y="360" width="780" height="120" rx="30" fill="#D6C8B9"/>
+  <rect x="210" y="560" width="220" height="220" rx="28" fill="#C9BAAA"/>
+  <rect x="490" y="560" width="220" height="220" rx="28" fill="#D6C8B9"/>
+  <rect x="770" y="560" width="220" height="220" rx="28" fill="#C9BAAA"/>
+  <rect x="360" y="920" width="480" height="170" rx="30" fill="#D6C8B9"/>
+  <text x="210" y="260" fill="#171414" font-family="Georgia, serif" font-size="56">AI CASE 01</text>
+  <text x="210" y="1160" fill="#5A4C43" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">WORKFLOW PLACEHOLDER</text>
+</svg>

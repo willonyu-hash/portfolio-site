@@ -1,0 +1,11 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#E9E2DA"/>
+  <rect x="110" y="120" width="980" height="1260" rx="40" fill="#F6F2EC" stroke="#B7AA9C"/>
+  <rect x="210" y="300" width="760" height="120" rx="18" fill="#D7C8B9"/>
+  <rect x="210" y="470" width="620" height="36" rx="18" fill="#D7C8B9"/>
+  <rect x="210" y="540" width="700" height="36" rx="18" fill="#D7C8B9"/>
+  <rect x="210" y="610" width="560" height="36" rx="18" fill="#D7C8B9"/>
+  <rect x="210" y="770" width="760" height="340" rx="32" fill="#C9BAAA"/>
+  <text x="210" y="240" fill="#171414" font-family="Georgia, serif" font-size="56">PROJECT 02</text>
+  <text x="210" y="1180" fill="#5A4C43" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">LANGUAGE SYSTEM PLACEHOLDER</text>
+</svg>

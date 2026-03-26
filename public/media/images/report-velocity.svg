@@ -1,0 +1,7 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#EBE3DA"/>
+  <rect x="110" y="120" width="980" height="1260" rx="40" fill="#F7F3ED" stroke="#B9AB9C"/>
+  <path d="M190 1038C366 850 524 754 690 738C830 726 936 782 1010 868V1280H190V1038Z" fill="#CDBFAF"/>
+  <text x="190" y="240" fill="#171414" font-family="Georgia, serif" font-size="56">REPORT A</text>
+  <text x="190" y="314" fill="#5A4C43" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">VELOCITY RESET</text>
+</svg>
