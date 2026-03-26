@@ -22,31 +22,31 @@ export default function HomePage() {
     <div className="min-h-screen bg-sand text-ink">
       <SiteHeader items={navigation} />
 
-      <main>
+      <main className="overflow-x-clip">
         <HeroSection profile={profile} resumePath={contact.resumePath} />
         <AboutSection profile={profile} />
 
         <ShowcaseSection
           id="reports"
           eyebrow="Trend Reports"
-          title="Selected reporting work shaped for fast reading and strong design translation."
-          description="Use this section to highlight the reports that best represent your judgment, category understanding, and ability to convert raw signals into clear direction."
+          title="Trend reporting presented with stronger visual hierarchy and faster reading rhythm."
+          description="In interview settings, this section should quickly prove judgment, category depth, and your ability to convert scattered signals into a usable design direction."
           items={reports}
         />
 
         <ShowcaseSection
           id="projects"
           eyebrow="Projects"
-          title="Project experience that shows how research becomes usable creative direction."
-          description="This section is ideal for broader experience beyond reports: internal initiatives, concept planning, team collaboration, and proposal packaging."
+          title="Project work that shows how research becomes direction, language, and creative conversion."
+          description="Use this area to show seniority through structure: what the project needed, what role you played, and why the output mattered."
           items={projects}
         />
 
         <ShowcaseSection
           id="ai-cases"
           eyebrow="AI Cases"
-          title="AI application examples focused on real workflow value, not gimmicky noise."
-          description="Show how AI helps you research faster, communicate better, and build smarter working methods without replacing your own professional judgment."
+          title="AI practice framed as professional leverage, not gimmicky decoration."
+          description="The goal here is to show applied thinking: where AI improved research, communication, and efficiency while your own judgment stayed in charge."
           items={aiCases}
         />
 
