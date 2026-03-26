@@ -1,5 +1,8 @@
 .next
 .npm-cache
+.open-next
+.wrangler
+cloudflare-env.d.ts
 node_modules
 out
 dist
