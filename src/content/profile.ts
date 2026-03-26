@@ -2,12 +2,12 @@ import type { ProfileContent } from "@/lib/content-types";
 
 /**
  * Editing guide:
- * 1. Replace `name` with your real Chinese or English name.
- * 2. Replace the email and social links in `contact.ts`.
- * 3. Keep the profile text concise. This site is for interview scanning, not autobiography.
+ * 1. Replace `resumePath` in `contact.ts` after your final resume file name is confirmed.
+ * 2. Replace the hero image when you have a stronger personal cover visual.
+ * 3. Keep this copy concise. It should help interviewers understand you fast.
  */
 export const profile: ProfileContent = {
-  name: "YOUR NAME",
+  name: "余奇胜",
   englishName: "Fashion Trend Designer",
   headline: "运动趋势研究、方向策划与设计表达转化",
   currentTitle: "趋势中心运动方向设计师",

@@ -2,61 +2,61 @@ import type { ShowcaseItem } from "@/lib/content-types";
 
 /**
  * Project content.
- * One object equals one project. Keep the field order stable for easier future editing.
+ * Replace the second and third project titles when your final naming is confirmed.
  */
 export const projects: ShowcaseItem[] = [
   {
-    id: "sports-theme-planning",
-    title: "运动方向主题企划与设计表达项目",
-    subtitle: "面向内部提案与后续设计开发的方向整合",
+    id: "taobao-tmall-trend-whitepaper",
+    title: "淘宝天猫个案合作趋势白皮书",
+    subtitle: "面向平台合作场景的趋势整合与方向表达项目",
     time: "2025",
-    role: "方向策划 / 内容组织 / 设计转化",
+    role: "趋势研究 / 内容策划 / 设计表达转化",
     summary:
-      "围绕运动方向重点主题，完成从趋势信息筛选、结构梳理到视觉表达转译的完整项目支持，帮助团队更高效地理解方向并推进后续开发。",
+      "围绕平台合作需求，完成趋势信息筛选、内容结构整理与方向表达支持，形成更适合业务沟通与后续设计转化的白皮书内容成果。",
     details: [
-      "结合趋势研究与项目目标搭建清晰的内容框架，明确主题逻辑、视觉重点与表达顺序。",
-      "将研究语言转写为更具沟通效率的项目表达，减少内部理解偏差，提升提案完成度。",
-      "在内容组织与页面表达上强化重点信息，使项目成果更适合会议展示、团队协作与后续延展。"
+      "结合运动方向趋势研究、平台语境与合作需求，建立清晰的主题逻辑与内容框架。",
+      "将研究信息转写为更适合提案、汇报与跨团队沟通的表达方式，提升成果的可读性与说服力。",
+      "在视觉与内容组织上强化重点信息，使白皮书既具专业判断，也具后续转化价值。"
     ],
-    tags: ["Direction Planning", "Editorial Structure", "Creative Translation"],
+    tags: ["Trend Whitepaper", "Platform Collaboration", "Content Translation"],
     coverImage: {
       src: "/media/images/project-season.svg",
-      alt: "Project placeholder cover for sports theme planning"
+      alt: "Project placeholder cover for Taobao Tmall collaboration whitepaper"
     },
     gallery: [
       {
         src: "/media/images/gallery-grid-a.svg",
-        alt: "Gallery placeholder one for project imagery"
+        alt: "Gallery placeholder one for whitepaper imagery"
       },
       {
         src: "/media/images/gallery-grid-b.svg",
-        alt: "Gallery placeholder two for project imagery"
+        alt: "Gallery placeholder two for whitepaper imagery"
       }
     ],
     featured: true
   },
   {
-    id: "trend-language-system",
-    title: "运动方向趋势语言体系整理",
-    subtitle: "提升不同项目之间的表达一致性与方向清晰度",
+    id: "project-title-pending-02",
+    title: "项目标题待补充 02",
+    subtitle: "待确认正式项目名称后替换",
     time: "2024",
     role: "内容框架搭建 / 命名逻辑 / 内部协同",
     summary:
-      "针对既有项目在命名、表达和内容结构上的差异，建立更统一的趋势语言体系，帮助团队在方向理解和成果输出上保持一致。",
+      "该项目条目已保留结构，后续只需替换为你的真实项目标题、简介和素材，即可继续作为正式案例展示。",
     details: [
-      "梳理不同项目中的主题命名、视觉关键词与叙事结构，统一输出标准与表达逻辑。",
-      "为后续提案和方向内容建立更稳定的模板骨架，提升协作效率与内容复用价值。",
-      "减少不同成员对同一趋势结论的理解偏差，使研究成果更具连续性和专业感。"
+      "建议后续补充项目背景、你的职责、主要输出内容以及项目价值。",
+      "如果该项目更偏趋势报告，可保留研究视角；如果更偏合作项目，可强化成果转化与协同作用。",
+      "替换真实图片和标题后，这一项就可以直接用于面试展示。"
     ],
-    tags: ["Naming System", "Content Framework", "Team Alignment"],
+    tags: ["Title Pending", "Content Ready", "To Be Updated"],
     coverImage: {
       src: "/media/images/project-language.svg",
-      alt: "Project placeholder cover for trend language system"
+      alt: "Project placeholder cover for pending project two"
     },
     gallery: [
       {
         src: "/media/images/gallery-grid-c.svg",
-        alt: "Gallery placeholder for trend language system imagery"
+        alt: "Gallery placeholder for pending project two"
       }
     ],
     video: {
@@ -68,31 +68,31 @@ export const projects: ShowcaseItem[] = [
     featured: false
   },
   {
-    id: "proposal-storytelling-support",
-    title: "趋势内容包装与提案表达优化",
-    subtitle: "把研究结论转化为更具说服力的项目叙事",
+    id: "project-title-pending-03",
+    title: "项目标题待补充 03",
+    subtitle: "待确认正式项目名称后替换",
     time: "2024",
     role: "故事线设计 / 内容编辑 / 视觉统筹",
     summary:
-      "针对客户或内部提案场景，重构趋势内容的页面节奏与表达方式，让研究输出从信息堆叠升级为更容易理解和记住的叙事体验。",
+      "该项目条目作为第三个案例占位保留，便于你后续继续补齐真实项目信息，而无需改动组件或页面结构。",
     details: [
-      "重写标题逻辑、重点顺序与视觉层级，让核心判断在移动端浏览和会议场景中都能被快速抓住。",
-      "通过图文排序和内容压缩强化项目说服力，让关键信息出现得更早、更明确。",
-      "提升整体呈现质量，使成果在专业度、完成度与视觉质感上更符合面试和汇报场景。"
+      "建议优先选择一个能体现趋势判断或设计表达转化能力的真实项目进行替换。",
+      "如果该案例与 AI 实践或内容优化有关，也可以强化方法论和效率提升层面的价值。",
+      "目前先保留结构完整，避免页面版式因为内容缺失而塌掉。"
     ],
-    tags: ["Storytelling", "Proposal Support", "Presentation Quality"],
+    tags: ["Title Pending", "Structure Preserved", "Interview Ready"],
     coverImage: {
       src: "/media/images/project-story.svg",
-      alt: "Project placeholder cover for proposal storytelling"
+      alt: "Project placeholder cover for pending project three"
     },
     gallery: [
       {
         src: "/media/images/gallery-grid-a.svg",
-        alt: "Gallery placeholder one reused for storytelling project"
+        alt: "Gallery placeholder one for pending project three"
       },
       {
         src: "/media/images/gallery-grid-c.svg",
-        alt: "Gallery placeholder two reused for storytelling project"
+        alt: "Gallery placeholder two for pending project three"
       }
     ],
     featured: true
